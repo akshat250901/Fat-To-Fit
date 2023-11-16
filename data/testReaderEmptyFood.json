@@ -1,0 +1,15 @@
+{
+  "Water": [
+    {
+      "date": "2020-01-10",
+      "amount": 10
+    },
+    {
+      "date": "2019-09-09",
+      "amount": 1000
+    }
+  ],
+  "CalorieGoal": 2000,
+  "name": "Akshat's Consumption",
+  "Food": []
+}

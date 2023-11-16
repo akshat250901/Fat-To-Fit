@@ -1,0 +1,80 @@
+{
+    "Water": [
+        {
+            "date": "2019-09-09",
+            "amount": 100
+        },
+        {
+            "date": "2019-09-09",
+            "amount": 300
+        },
+        {
+            "date": "2018-08-08",
+            "amount": 400
+        },
+        {
+            "date": "2018-08-08",
+            "amount": 100
+        },
+        {
+            "date": "2018-08-08",
+            "amount": 1000
+        },
+        {
+            "date": "2019-09-09",
+            "amount": 200
+        },
+        {
+            "date": "2019-09-09",
+            "amount": 200
+        },
+        {
+            "date": "2019-09-09",
+            "amount": 2000
+        },
+        {
+            "date": "2019-09-09",
+            "amount": 200
+        }
+    ],
+    "CalorieGoal": 2000,
+    "name": "Akshat's  Consumption",
+    "Food": [
+        {
+            "date": "2019-09-09",
+            "foodtype": "DINNER",
+            "name": "Biryani",
+            "calories": 500
+        },
+        {
+            "date": "2019-09-09",
+            "foodtype": "DINNER",
+            "name": "Raita",
+            "calories": 50
+        },
+        {
+            "date": "2019-09-09",
+            "foodtype": "LUNCH",
+            "name": "Chicken Sandwhich",
+            "calories": 500
+        },
+        {
+            "date": "2018-08-08",
+            "foodtype": "SNACK",
+            "name": "Pizza",
+            "calories": 700
+        },
+        {
+            "date": "2018-08-08",
+            "foodtype": "DINNER",
+            "name": "Ready to eat",
+            "calories": 500
+        },
+        {
+            "date": "2018-08-08",
+            "foodtype": "BREAKFAST",
+            "name": "Cornflakes",
+            "calories": 200
+        }
+    ]
+}

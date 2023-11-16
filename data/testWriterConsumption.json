@@ -1,0 +1,14 @@
+{
+    "Water": [{
+        "date": "2010-12-30",
+        "amount": 750
+    }],
+    "CalorieGoal": 5000,
+    "name": "User's Consumption",
+    "Food": [{
+        "date": "2017-12-15",
+        "foodtype": "DINNER",
+        "name": "rajma",
+        "calories": 490
+    }]
+}

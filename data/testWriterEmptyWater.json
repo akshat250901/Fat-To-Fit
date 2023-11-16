@@ -1,0 +1,25 @@
+{
+    "Water": [],
+    "CalorieGoal": 3000,
+    "name": "Seb's Consumption",
+    "Food": [
+        {
+            "date": "2017-12-15",
+            "foodtype": "DINNER",
+            "name": "pizza",
+            "calories": 490
+        },
+        {
+            "date": "2018-12-29",
+            "foodtype": "LUNCH",
+            "name": "maggi",
+            "calories": 300
+        },
+        {
+            "date": "2010-12-30",
+            "foodtype": "BREAKFAST",
+            "name": "eggs",
+            "calories": 50
+        }
+    ]
+}

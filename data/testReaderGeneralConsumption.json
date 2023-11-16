@@ -1,0 +1,33 @@
+{
+  "Water": [
+    {
+      "date": "2001-01-10",
+      "amount": 300
+    },
+    {
+      "date": "2015-09-22",
+      "amount": 100
+    },
+    {
+      "date": "2015-09-22",
+      "amount": 900
+    }
+  ],
+  "CalorieGoal": 3000,
+  "name": "User's Consumption",
+  "Food": [
+    {
+      "date": "2001-01-10",
+      "foodtype": "DINNER",
+      "name": "chicken",
+      "calories": 850
+    },
+    {
+      "date": "2015-09-22",
+      "foodtype": "LUNCH",
+      "name": "rajma",
+      "calories": 300
+    }
+
+  ]
+}

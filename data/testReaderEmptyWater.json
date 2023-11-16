@@ -1,0 +1,25 @@
+{
+  "Water": [],
+  "CalorieGoal": 1500,
+  "name": "Seb's Consumption",
+  "Food": [
+    {
+      "date": "2019-09-09",
+      "foodtype": "BREAKFAST",
+      "name": "pizza",
+      "calories": 250
+    },
+    {
+      "date": "2018-10-09",
+      "foodtype": "LUNCH",
+      "name": "momos",
+      "calories": 400
+    },
+    {
+      "date": "2019-09-10",
+      "foodtype": "SNACK",
+      "name": "burger",
+      "calories": 500
+    }
+  ]
+}
